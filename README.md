@@ -7,7 +7,8 @@
 [https://my.oschina.net/finchxu/blog/1930191](https://my.oschina.net/finchxu/blog/1930191)
 
 整个OJ的部署在这里我也作了修改：
-[https://my.oschina.net/finchxu/blog/1927273](https://my.oschina.net/finchxu/blog/1927273)
+[https://github.com/finch-xu/hebauojdeploy](https://github.com/finch-xu/hebauojdeploy)
+部署过程笔记：[https://my.oschina.net/finchxu/blog/1927273](https://my.oschina.net/finchxu/blog/1927273)
 
 ## Browser Support
 
