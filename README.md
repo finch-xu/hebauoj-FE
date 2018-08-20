@@ -1,41 +1,13 @@
-# OnlineJudge Front End
-[![vue](https://img.shields.io/badge/vue-2.5.13-blue.svg?style=flat-square)](https://github.com/vuejs/vue)
-[![vuex](https://img.shields.io/badge/vuex-3.0.1-blue.svg?style=flat-square)](https://vuex.vuejs.org/)
-[![echarts](https://img.shields.io/badge/echarts-3.8.3-blue.svg?style=flat-square)](https://github.com/ecomfe/echarts)
-[![iview](https://img.shields.io/badge/iview-2.8.0-blue.svg?style=flat-square)](https://github.com/iview/iview)
-[![element-ui](https://img.shields.io/badge/element-2.0.9-blue.svg?style=flat-square)](https://github.com/ElemeFE/element)
-[![Build Status](https://travis-ci.org/QingdaoU/OnlineJudgeFE.svg?branch=master)](https://travis-ci.org/QingdaoU/OnlineJudgeFE)
+这是qduoj项目前端的修改和备份
 
->### A multiple pages app built for OnlineJudge. [Demo](https://qduoj.com)
+想用原版的请去这里：[https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
 
-## Features
+如何修改这个前端呢？下边有我写的修改笔记
+[https://my.oschina.net/finchxu/blog/1930017](https://my.oschina.net/finchxu/blog/1930017)
+[https://my.oschina.net/finchxu/blog/1930191](https://my.oschina.net/finchxu/blog/1930191)
 
-+ Webpack3 multiple pages with bundle size optimization
-+ Easy use simditor & Nice codemirror editor
-+ Amazing charting and visualization(echarts)
-+ User-friendly operation
-+ Quite beautiful：)
-
-## Get Started
-
-Install nodejs **v6.11** first.
-
-```bash
-npm install
-# we use webpack DllReference to decrease the build time,
-# this command only needs execute once unless you upgrade the package in build/webpack.dll.conf.js
-NODE_ENV=development npm run build:dll
-
-# the dev-server will set proxy table to your backend
-export TARGET=http://Your-backend
-
-# serve with hot reload at localhost:8080
-npm run dev
-```
-
-## Screenshots
-
-[Check here.](https://github.com/QingdaoU/OnlineJudge)
+整个OJ的部署在这里我也作了修改：
+[https://my.oschina.net/finchxu/blog/1927273](https://my.oschina.net/finchxu/blog/1927273)
 
 ## Browser Support
 
